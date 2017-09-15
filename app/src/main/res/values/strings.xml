@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="text_false">False</string>
+    <string name="text_true">True</string>
+    <string name="next">Next</string>
+    <string name="bread_question">The girl eats bread.</string>
+    <string name="menu_question">The boy and the girl read the menu.</string>
+    <string name="elephant_question">Elephants see you.</string>
+</resources>
